@@ -4,3 +4,5 @@ A basic winforms application to non-destructively hide a monitor. Simply drag th
 
 For more monitors, simply open additional instances of the application.
 
+![Screenshot showing the application windowed](https://github.com/Kogitsune/BlackMirror/blob/master/media/ss1.png?raw=true)
+<image src="https://github.com/Kogitsune/BlackMirror/blob/master/media/ss2.png?raw=true" width=802 height=451 />
