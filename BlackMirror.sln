@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BlackMirror", "BlackMirror.vbproj", "{EE2A4CB7-ACC9-4C3E-9E1A-3CD4FC7A456E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "BlackMirror", "BlackMirror.vbproj", "{EE2A4CB7-ACC9-4C3E-9E1A-3CD4FC7A456E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
